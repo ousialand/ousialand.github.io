@@ -1257,7 +1257,7 @@ h3.serchedPreview {
 			}
 
 			header.masthead .overlay {
-				opacity: 0.4 !important;
+				opacity: 4 !important;
 			}
 
 			.toc-container .markdownIt-TOC {
